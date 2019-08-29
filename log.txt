@@ -1,0 +1,9 @@
+python: can't open file 'D:\workspace\appiumUnitest\result\loginTest.py': [Errno 2] No such file or directory
+python: can't open file 'D:\workspace\appiumUnitest\result\__init__.py': [Errno 2] No such file or directory
+打开app成功
+登陆成功啦
+.
+----------------------------------------------------------------------
+Ran 1 test in 86.014s
+
+OK

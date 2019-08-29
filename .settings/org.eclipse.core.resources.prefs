@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//app/OpenApp.py=utf-8
+encoding//model/loginModel.py=utf-8
+encoding//process/CploginProc.py=utf-8
+encoding//process/commonProc.py=utf-8
+encoding//process/loginProc.py=utf-8
+encoding//public/MyMethod.py=utf-8
+encoding//public/RecognitionText.py=utf-8
+encoding//public/excel.py=utf-8
+encoding//public/swipe.py=utf-8
+encoding//public/switch.py=utf-8
+encoding//testcase/loginTest.py=utf-8
+encoding/All_Test.py=utf-8
+encoding/Test_case_log.py=utf-8
